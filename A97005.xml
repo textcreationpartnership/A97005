@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine affirmations in defence of the pulling down of communion rails, by divers rash and misguided people, judiciously and religiously answered, / by a Gentleman of worth.</title>
+            <author>I. W., Gentleman of worth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97005</idno>
+            <idno type="STC">Wing W39</idno>
+            <idno type="STC">Thomason E171_1</idno>
+            <idno type="STC">ESTC R9386</idno>
+            <idno type="EEBO-CITATION">99873539</idno>
+            <idno type="PROQUEST">99873539</idno>
+            <idno type="VID">157039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157039)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine affirmations in defence of the pulling down of communion rails, by divers rash and misguided people, judiciously and religiously answered, / by a Gentleman of worth.</title>
+                  <author>I. W., Gentleman of worth.</author>
+               </titleStmt>
+               <extent>[10], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lowndes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: I. W.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Church of England --  Early works to 1800.</term>
+               <term>Church decoration and ornament --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157039:1"/>
+            <pb facs="tcp:157039:1" rendition="simple:additions"/>
+            <p>Certaine AFFIRMATIONS In defence of the pul<g ref="char:EOLhyphen"/>ling down of <hi>Communion Rails,</hi> by divers raſh and miſguided peo<g ref="char:EOLhyphen"/>ple, judiciouſly and religi<g ref="char:EOLhyphen"/>ouſly anſwered,</p>
+            <p>
+               <hi>By a Gentleman of worth.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Richard Lowndes,</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157039:2"/>
+            <pb facs="tcp:157039:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know thou art not ignorant of the too foule and irreligi<g ref="char:EOLhyphen"/>ous tumults lately commit<g ref="char:EOLhyphen"/>ted in the Houſe of God, in too many places of this King<g ref="char:EOLhyphen"/>dome. Among the reſt, this, that was the cauſe of this diſcours, was one of the chief<g ref="char:EOLhyphen"/>eſt, and had his full weight of diſobedi<g ref="char:EOLhyphen"/>ence and contempt; and I cannot but be<g ref="char:EOLhyphen"/>lieve the primary proceedings of others, where ſtrong motives to whet on thoſe raſh and miſled youths to the enacting of this outrage, admit it were done with<g ref="char:EOLhyphen"/>out Abettors, whereof more may be here<g ref="char:EOLhyphen"/>after diſcovered.</p>
+            <p>Now what theſe motives were I ſhall take liberty to relate; not onely from my opinion and fancy, but encouraged by the Iudgement of many of great wiſdome
+<pb facs="tcp:157039:3"/>and vertue; the firſt whereof is, That free li<g ref="char:EOLhyphen"/>berty hath been given to all (by our Mini<g ref="char:EOLhyphen"/>ſters) to receive the holy Euchariſt, in what poſture the receiver had a deſire, though quite repugnant to the former conſtitutions of Acts of Parliament; Se<g ref="char:EOLhyphen"/>condlie, the other Sacrament of Baptiſme performed without the ſigne of the Croſſe, with the omiſſion of ſome of the words and prayers; Thirdly, upon that ſolemne day of generall Humilation, and zealouſly commanded by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, the prayers appointed for the mor<g ref="char:EOLhyphen"/>ning were not halfe read; and in the after<g ref="char:EOLhyphen"/>noone, not one word of the Prayers for that day read unto us; yet ſuch venerable eſteeme they gave to their own inſpired Petitions, and extemporie additions, that they laſted-full three houres before their Sermons, One of whom was a Miniſter that for many yeeres before, for his diſobe<g ref="char:EOLhyphen"/>dience to Eccleſiaſticall government, was ſuſpended by authority; Fourthly, the Service inſtituted to be read on the Lords day, hath beene too much ſlighted, and
+<pb facs="tcp:157039:3"/>too often cut off by halfes; againe the a<g ref="char:EOLhyphen"/>foreſaid ſervice commanded to bee publi<g ref="char:EOLhyphen"/>ſhed and attended on upon the weekely dayes, is growne almoſt contemptible, in ſo much, that upon thoſe dayes there is a great aſſembly, if there bee one perſon to forty pews; but to the inſtitution of a weekely Lecture, ordained by a private Miniſter, thereto will reſort a very large co<g ref="char:cmbAbbrStroke">̄</g>gregation, which I heartily deſire greater; yet, under correction, I conceive the other dutie ought to have (if not more) an equall reverence; in regard of the moſt honoura<g ref="char:EOLhyphen"/>ble inſtitution and inſtitutors, The Houſe of God being termed by his Sonne the Houſe of Prayer; fifthly, it is too manifeſt, That the Surplice formerly enjoyned to be worn, hath beene altogether left in all the ordinances of the Church before a generall reſtraint, a habit uſed from the infancy of Religion, and preſcribed by God himſelf, yet reputed a relike of poperie by the ſingle ſoul'd opinions of too to many in this our irreverent age; Laſtly, it is well knowne, That by a preſcribed command, the Bi<g ref="char:EOLhyphen"/>ſhops
+<pb facs="tcp:157039:4"/>were to bee remembred in their Prayers before their Sermons, either as a duty of obedience, charity, or pietie, but now omitted as unneceſſary and imperti<g ref="char:EOLhyphen"/>nent; but in their Sermons they are remem<g ref="char:EOLhyphen"/>bred (with a vengeance) and ſo ſtrangely charactered, as if their perſons were altoge<g ref="char:EOLhyphen"/>ther cut out of the Beaſt, or the order worthy of all ſcandall &amp; contempt; more I might add, but I conceive this will exaſpe<g ref="char:EOLhyphen"/>rate ſufficiently the pious inclinations of all that are the dutifull Sons of their mo<g ref="char:EOLhyphen"/>ther, againſt all refractary ſpirits; for con<g ref="char:EOLhyphen"/>cluſion of this information, I hope I ſhall without offence infer, That if the ſacred Conventions, and zealous Edicts, of our Godly and wiſe Anceſtors, may bee thus ſlighted, by the perverſe will, and ad<g ref="char:EOLhyphen"/>dle opinion of diſtempered and ſtubborn people (without an account) it may argue their Injunctions unwarrantable, or (if juſt and pious) a diſeſteeme of their bleſſed and holy Ordinances, to their great diſho<g ref="char:EOLhyphen"/>nour, or, our larger reproach.</p>
+            <p>But I am comforted with this confi<g ref="char:EOLhyphen"/>dence,
+<pb facs="tcp:157039:4"/>That thoſe faithfull Stewards of the State, the true diſtributers of Iuſtice, the provident overſeers, and judicious under<g ref="char:EOLhyphen"/>takers of our good, and the zealous ad<g ref="char:EOLhyphen"/>vancers of Gods glory in all Pietie, will at the laſt require a <hi>Redde rationem</hi> from all miſhap<g ref="char:cmbAbbrStroke">̄</g>e Sectaries of their unparraleld pro<g ref="char:EOLhyphen"/>ceedings, and unheard-of ſtubborn diſo<g ref="char:EOLhyphen"/>bedience, whoſe humble Beadſ-man I am, and ſhall not faile in the ſtrength of all my devotio<g ref="char:cmbAbbrStroke">̄</g>s to defire a proſperous progreſſion to this their beginning, and a glorious con<g ref="char:EOLhyphen"/>cluſion to both, in the fulneſſe of all dutie, committing them all, and all their ſacred conſultations, into the hands of Heaven, and into their hands all malevolent diſtur<g ref="char:EOLhyphen"/>bers of <hi>Truth</hi> and <hi>Peace.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157039:5"/>
+            <pb facs="tcp:157039:5"/>
+            <head>To his worthy Friend the Authour.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Muſt ingenuouſly confeſs, that my importunitie only brought this Child of yours into the World; And I was the more preſsing, becauſe of the foul<g ref="char:EOLhyphen"/>neſs of the Art, and the too many unlick'd Lumps that the Preſs hath too lately ſpued forth; and that theſe your wel<g ref="char:EOLhyphen"/>poliſh'd endevours ſhould employ the Printer; who otherwiſe might (in regard of the too inſa<g ref="char:EOLhyphen"/>pid heads and buſie brains of theſe times) have ſent out more of his old Rubbiſh.</p>
+            <p>Many, of good judgment, to whom I ſhewed this in a Manuſcript, did much applaud your la<g ref="char:EOLhyphen"/>bour and pious ends herein. And although the oc<g ref="char:EOLhyphen"/>caſion which induced you to this worke was full
+<pb facs="tcp:157039:6"/>fraught with unparalleld impietie, and a great griefe to all true-hearted Spirits, yet there have been too many who have not been ſparing to com<g ref="char:EOLhyphen"/>mend the Actors, and to judge the Action meri<g ref="char:EOLhyphen"/>torious; and, in the fouleſt way of aſperſion, to brand all thoſe who have diſliked, or Authoritie hath commanded to make inquirie of their pro<g ref="char:EOLhyphen"/>ceedings; but let them take heed leſt the ſtone they throw return not upon their own heads; and their foule vomiting into their owne boſomes; heartily wiſhing them as much zeale as they want know<g ref="char:EOLhyphen"/>ledge; lowly looks, unpartiall eares, true tongues, purer hearts, cleaner hands, bended knees, and feet to march with a ſober pace. Thus recom<g ref="char:EOLhyphen"/>mending your ingenuous Diſcourſe to the judicious Reader, confeſsing my ſelf, (with many thanks) your debtor; becauſe you were pleaſed to give me libertie to publiſh this your labour; which other<g ref="char:EOLhyphen"/>wiſe had beene confined to the narrow limits of your own Librarie; my deſires being yours, in wiſhing to be known to none but your ſelfe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:157039:6"/>
+            <head>A Diſcourſe, or an Anſwer to ſome Affirmations concerning the pulling down of the Communion Rails on the Viſitation day, when the Chancellor was oppoſed his keeping Court.</head>
+            <div type="affirmation">
+               <head>
+                  <hi>Affir. I.</hi> That the Rails about the Com<g ref="char:EOLhyphen"/>munion Table were intended to Popery and Superſtition.</head>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p>
+                  <seg rend="decorInit">L</seg>Et it be granted they were (al<g ref="char:EOLhyphen"/>though in charity according to the uſe of them we ought to judge better) Wee know that our Church in this town, and moſt of our Churches in <hi>England,</hi> with the means be<g ref="char:EOLhyphen"/>longing unto them, were po<g ref="char:EOLhyphen"/>piſhly or ſuperſtitiouſly erected and dedicated, and employed to Idolatry and Superſtition for a long time together: Yet wee Proteſtants of the
+<pb n="2" facs="tcp:157039:7"/>Reformed Religion doe not think it unlawfull to ſerve the true God in them, and doe poſſeſſe and enjoy the meanes belonging unto them without any ſcruple of conſcience. Moreoever, the Na<g ref="char:EOLhyphen"/>tion it ſelfe wherein wee live was not inhabited at firſt with Proteſtants, yet God forbid, that any ſhould be ſo ſimple therefore to forſake the Land, or pull down the Churches. For the abuſe ought not to take away the right uſe of any thing.</p>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>2</hi> The Rails were not lawfully ſet up.</head>
+               <p>
+                  <hi>Anſ.</hi> The authority of ſubordinate Gover<g ref="char:EOLhyphen"/>nours of the Church for the neceſſary repaire, or<g ref="char:EOLhyphen"/>nament, and uniformitie of reverent and decent behaviours will hereafter more manifeſtly ap<g ref="char:EOLhyphen"/>peare. For as there is but one God and one Truth, ſo there ought to be amongſt us but one way, one co<g ref="char:cmbAbbrStroke">̄</g>mon union. But ſuppoſe they were ſet up with<g ref="char:EOLhyphen"/>out that authority which you call l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wfull? They ought therefore to be taken down by a more law<g ref="char:EOLhyphen"/>full authority. For as a lawfull thing may be done unlawfully, ſo what is unlawfully done may like<g ref="char:EOLhyphen"/>wiſe be undone far more unlawfully.</p>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>3 London,</hi> and all other places have pulled them downe in the like manner.</head>
+               <p>
+                  <hi>Anſ.</hi> It is a queſtion whether they have done the like or not. The whole is not to be blamed for part unleſſe all were actors or conſenters. Yet if it were ſo, the actions of others will not juſtifie
+<pb n="3" facs="tcp:157039:7"/>ours before God or Man, <hi>wee muſt not follow a mul<g ref="char:EOLhyphen"/>titude to doe evill, nor doe evill that good may come thereon.</hi>
+               </p>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>4</hi> It is juſt with God they ſhould be ſo pulled down.</head>
+               <p>
+                  <hi>Anſ.</hi> That which is juſt with God, and accor<g ref="char:EOLhyphen"/>ding to his ſecret Will, may be unjuſt in Man, be<g ref="char:EOLhyphen"/>ing done contrary to his revealed Will. As in the Death of Traytors and the like Offenders againſt the Common-wealth; It is juſt with God and Man they ſhould be cut off by them, Yet it is un<g ref="char:EOLhyphen"/>juſt and unanſwerable to God and Man, for any to take away their lives, before juſtice hath or<g ref="char:EOLhyphen"/>dained the Execution, and the Executioner alſo.</p>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>5</hi> There are none that truly feare God that oppoſe the pulling of them down, or are offended with them who pulled them down.</head>
+               <p>
+                  <hi>Anſ.</hi> This is a raſh and ſelf-conceited cenſure, too common amongſt Chriſtians wedded to their owne opinions. Hee that ſerves God truly, ought to ſerve him rightly according to his Word, But Gods Word doth not allow or countenance Mutinies, unlawfull Aſſemblies, or Rebellions againſt Government, pulling the Sword of Juſtice out of the Magiſtrates hand, and uſing, or rather abuſing it as we pleaſe, according to our perverſe wils and affections, Therefore conſequently thoſe that doe ſo, doe not fear God truly.</p>
+               <div type="part">
+                  <pb n="4" facs="tcp:157039:8"/>
+                  <head>Nor are offended, &amp;c.</head>
+                  <p>It is not the Matter ſo much as the Manner that gives the occaſion of the offence, and not the per<g ref="char:EOLhyphen"/>ſons ſo much as their offences. And as there were probably ſeverall ſorts of people that were at the pulling of them downe for ſeverall ends and in<g ref="char:EOLhyphen"/>tents, moſt of them for ſiniſter ends and by re<g ref="char:EOLhyphen"/>ſpects; Yet ſome who were ſimple, honeſt, and well meaning people, only miſ-informed, and miſ-led: So likewiſe all that are offended there<g ref="char:EOLhyphen"/>at, have not the like affections, yet moſt I believe are juſtly offended to ſee the Proteſtant Religion, and Covenant, ſo much diſhonoured and abuſed, Authority and Government contemned, the bonds of Duty and Unity broken, the Gover<g ref="char:EOLhyphen"/>nours, Officers, and Town, like to be prejudiced, and the actors themſelves like to be miſchieved.</p>
+               </div>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>6</hi> Wee are bound by the laſt Proteſtation againſt Innovations, This being an Innovation we ought to pull it down.</head>
+               <p>
+                  <hi>Anſ.</hi> This manifeſts ſimplicitie, ignorance, or worſe. It is true that wee are bound to main<g ref="char:EOLhyphen"/>tain and defend the Proteſtant Religion contai<g ref="char:EOLhyphen"/>ned in the Doctrine of the Church of <hi>England,</hi> againſt all poperie, and popiſh innovations, con<g ref="char:EOLhyphen"/>trary to the ſaid Doctrine. But what is that to any neceſſary or decent ornament of the Church? beſides wee are bound to maintain the proteſtant
+<pb n="5" facs="tcp:157039:8"/>Religion no further then wee may lawfully do it (that is by petition, ſolicitation, information, affirmation, to thoſe who have authority to reforme) Not by unlawfull aſſemblies and tu<g ref="char:EOLhyphen"/>multuous riots, (eſpecially in times of reforma<g ref="char:EOLhyphen"/>on) to be our owne Judges, Juries, and Exe<g ref="char:EOLhyphen"/>cutioners. Moreover wee muſt remember that by the ſaid Proteſtation we are bound according to the duty of our allegiance to maintaine the Kings royall perſon, honour, and eſtate. Now all Royall and lawfull authoritie and honour is derived and given even from GOD Al<g ref="char:EOLhyphen"/>mighty to the King, and from him to all his ſub<g ref="char:EOLhyphen"/>ordinate Miniſters. Hee then that offends this lawfull authority, though in the meaneſt Mini<g ref="char:EOLhyphen"/>ſter, offends and diſhonoureth the higheſt autho<g ref="char:EOLhyphen"/>ritie from whence it came. Againe we are bound by the ſaid Proteſtation to maintaine and defend the power and privileges of Parlaments. In both which certainly are included the Laws and Acts of Parlaments which concernes either of them. Furthermore wee are bound in all juſt and ho<g ref="char:EOLhyphen"/>nourable wayes, to endevour to preſerve the U<g ref="char:EOLhyphen"/>nion betweene the Kings three Dominions, undoubtedly then wee are not to neglect our own, For Unity as well as Charitie is to begin at home.</p>
+            </div>
+            <div type="affirmation">
+               <pb n="6" facs="tcp:157039:9"/>
+               <head>
+                  <hi>7</hi> We ought to maintain the cauſe of Religion, and not to diſcover the faylings of the Profeſsors thereof.</head>
+               <p>
+                  <hi>Anſ.</hi> Wee are to maintain the cauſe of Religion, Religiouſlie, and lawfully, and not o<g ref="char:EOLhyphen"/>therwiſe. True Religion needes not errors to maintain it, it is able by ſound truths and ſollid reaſons to maintain it ſelfe. That which is con<g ref="char:EOLhyphen"/>trary to it is not from God, but rather from the deluſions of the Devill, who is the authour of all Rebellions, Seditions, and diſcords, And certain<g ref="char:EOLhyphen"/>ly ſuch courſes are diſhonourable and offenſive to God and our governours, and can wee ſup<g ref="char:EOLhyphen"/>poſe leſſe then that we prejudice our cauſe, and diſhonour them alſo, when we unlawfully and furiouſly anticipate their intentions? when wee endevour to do that by our wils and perverſe af<g ref="char:EOLhyphen"/>fections, which they intend by lawfull authority and ſound reaſon to grant us?</p>
+               <div type="part">
+                  <head>And not to diſcover the faylings, &amp;c.</head>
+                  <p>It were to be wiſhed that thoſe that make ſo much profeſſion of Religion, would make con<g ref="char:EOLhyphen"/>ſcience alſo of the diſcoverie of the faylings, im<g ref="char:EOLhyphen"/>perfections, and infirmities of others, but much more, how they doe backbite, ſlander, and beare falſe witneſſe, as they too often uſe to do. But ſuch acts in Profeſſors or others that are openly committed, offenſive, ſcandalous, con<g ref="char:EOLhyphen"/>cernes our late Proteſtation, and are of dange<g ref="char:EOLhyphen"/>rous
+<pb n="7" facs="tcp:157039:9"/>conſequence, tending to the ſubverſion of the fundamentall Maximes both of God and Man for Government, ought to be diſcovered and diſcloſed, by thoſe who make conſcience to feare God, honour and obey the King.</p>
+               </div>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>8</hi> Many meddle and talke more in theſe matters then they need.</head>
+               <p>
+                  <hi>Anſ.</hi> It is true indeed, there are too many, vain, idle, and unjuſtifiable ſpeeches, which have no warrant or lawfull Calling thereunto, ſo likewiſe there are more then ought to be that meddle too little. For the truth is at all times to be mayntai<g ref="char:EOLhyphen"/>ned, the ways and end being good and lawfull, the time and place ſeaſonable, and the perſons conſiderable. But if we were not Proteſtants, yet as we are Chriſtians, wee are to mayntaine unitie, prevent imminent dangers which we ſee, counſell and informe the ignorant and blinde, and other works of Mercie belonging both to ſoule and bodie.</p>
+               <p>And it many times falls out happily, that ſuch Chriſtian offices prevent much danger and miſ<g ref="char:EOLhyphen"/>chiefe. And thoſe that have publike ſpirits ayme more at the publike good, then at their owne pri<g ref="char:EOLhyphen"/>vate or ſiniſter ends, and often doe good to the publike, though they prejudice themſelves in ſo doing.</p>
+            </div>
+            <div type="affirmation">
+               <pb n="8" facs="tcp:157039:10"/>
+               <head>
+                  <hi>9</hi> That which is done will be mayntained. There are none called in queſtion for doing the like. And yee ſee there is like to come good of it.</head>
+               <p>
+                  <hi>Anſ.</hi> The maintenance of an evill action juſti<g ref="char:EOLhyphen"/>fieth and aggravates the offence. Do wee think it is no offence? to make Combinations, Conſpi<g ref="char:EOLhyphen"/>racies, Riots, and tumultuous oppoſitions againſt authoritie, the publike breach of our <hi>Proteſtation,</hi> with opprobrious and diſgracefull words againſt the Miniſters of Gods Word, and others in au<g ref="char:EOLhyphen"/>thority, and that after a Sermon, and other Adver<g ref="char:EOLhyphen"/>tiſements in the Houſe of God?</p>
+               <div type="part">
+                  <head>There are none as yet called in queſtion, &amp;c.</head>
+                  <p>
+                     <hi>Anſ.</hi> Peradventure the Superiour Magiſtrate expects the dutie and office of the Inferiour, And it is probable that there are matters of greater conſequence in hand. But we know forbearance is no acquittance.</p>
+               </div>
+               <div type="part">
+                  <head>And there is like to come good of it.</head>
+                  <p>That may ſeeme to be which is not, and will not prove ſo in the end. If there be any true good thereby, it is from the infinite mercie and good<g ref="char:EOLhyphen"/>neſſe of God, who is only able to turn all things to the beſt, to bring light out of darkneſſe, good out of evill, and a remedy out of a maladie, but wee have no warrant to doe evill that good may
+<pb n="9" facs="tcp:157039:10"/>come of it. Neither are we to forget the clemen<g ref="char:EOLhyphen"/>cie and goodneſſe of our Governours, who per<g ref="char:EOLhyphen"/>adventure forbeare the inflicting of the due pu<g ref="char:EOLhyphen"/>niſhment for the good opinion they have of the ſimplicity, weaknes, and good intentions of ſome of the offenders therein.</p>
+               </div>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>10</hi> But there are honeſt and good Chriſtians who have a hand therein.</head>
+               <p>
+                  <hi>Anſ.</hi> They are the more to be pittied and commiſerated, for good and honeſt Chriſtians too, are a great honour to Religion, and God grant that all Proteſtants may endevour to adorn their profeſſion with ſo rare companions, the want of which makes Religion very evill ſpoken of. But ſuppoſe they were the beſt Chriſtians, Wee are to know that the beſt of Gods Saints and dee<g ref="char:EOLhyphen"/>reſt children in all ages have been ſubject to, and have committed great errors and offences, but neither they nor any that truly feare God will juſtifie and mayntaine them, but rather acknow<g ref="char:EOLhyphen"/>ledge them, be ſorry for them, and forſake them. Eſpecially if they be publikely committed, offen<g ref="char:EOLhyphen"/>ſive and ſcandalous to Religion, and this is the only way to give ſatisfaction both to God and Man. And the acknowledgment of errours hath found favour &amp; remiſsion, when the mayntaining of them hath procured the greater and ſeverer puniſhments.</p>
+            </div>
+            <div type="affirmation">
+               <pb n="10" facs="tcp:157039:11"/>
+               <head>
+                  <hi>11</hi> Our endevours are but for Reformation.</head>
+               <p>
+                  <hi>Anſ.</hi> The beſt endevours of the multitude will be prayers to God, and obedience to their Governours, till by lawfull authoritie they are called to doe otherwiſe. For if they might have the handling and managing of it, they would quickly pull an old houſe about their heads, and inſteed of Reformation bring all to confuſion. Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir judgments are too weak for ſuch great un<g ref="char:EOLhyphen"/>dertakings: They are too apt to co<g ref="char:cmbAbbrStroke">̄</g>demn the right uſe of any thing for the abuſe ſake. They would have no <hi>Luurgie</hi> or <hi>Letany</hi> uſed in the Church of <hi>England,</hi> becauſe (as they are informed) it came from <hi>Rome,</hi> &amp; the Papiſts uſe it. As if becauſe the Pope makes uſe of the Lords Prayer, we Prote<g ref="char:EOLhyphen"/>ſtants therefore are to renounce it. Or becauſe the Devill and evill men pervert and make a bad uſe of the Scriptures, wee ſhould forbear to make the right uſe of them. When it comes to a moderate and judiciall triall, it will be found, that the <hi>Li<g ref="char:EOLhyphen"/>turgie</hi> and <hi>Letany</hi> and other the like which are now by many abhorred, being corrected as authoritie ſhall think fit, that they will not only be conve<g ref="char:EOLhyphen"/>nient but neceſſary in the Church of <hi>England,</hi> for the due and decent ſervice of God.</p>
+               <p>Againe, the multitude are apt to hate the per<g ref="char:EOLhyphen"/>ſon for the vice. <hi>Rome</hi> was once a true Church, Witneſſe Saint <hi>Paul</hi> his works to the <hi>Romans.</hi> Now it is full of Corruptions and Errours.</p>
+               <p>It is dangerous to ſuffer a ſword in a mad mans
+<pb n="11" facs="tcp:157039:11"/>hands. Peradventure they may think the beſt way to cure them of their corruptions is to cut their throats.</p>
+               <p>If wee are bound in charity to pray for the converſion of the <hi>Jews, Turks, Heathens,</hi> &amp; <hi>Infidels,</hi> certainly, wee are not to neglect the praying for the converſion of <hi>Papiſts</hi> who are <hi>Chriſtians.</hi> As God ſo godly men doe not delight in the death, but rather in the converſion of ſinners. And it may pleaſe God to make <hi>England</hi> as happy an in<g ref="char:EOLhyphen"/>ſtrument of converting and reforming <hi>Rome,</hi> and ſuch that belong to them, as it pleaſed him to raiſe inſtruments from <hi>Rome</hi> for <hi>Englands</hi> conver<g ref="char:EOLhyphen"/>ſion to the Chriſtian Religion, Which God in his due time grant, and I hope every charitable Pro<g ref="char:EOLhyphen"/>teſtant will ſay, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="affirmation">
+               <head>
+                  <hi>12</hi> There are Wiſemen that publiſh incitations to oppoſitions, &amp;c.</head>
+               <p>
+                  <hi>Anſ.</hi> There are many that are wiſe onely in their own conceits. But if they were the wiſeſt of men, yet they may erre. No man is wiſe in all things or at all times. Wiſdome is alwayes accompained with reaſon, There are many things that are accounted for wiſe actions which wil not hold the touch of common ſenſe and reaſon. It were to be wiſhed (and it would prove happie for the peace and tranquility both of the Church and Common-wealth) that there were a reſtraint that none ſhould publiſh any thing to the publike againſt the eſtabliſhed lawes of the Kingdome,
+<pb n="12" facs="tcp:157039:12"/>much leſs that they ſhould preſume to utter facti<g ref="char:EOLhyphen"/>ous words and put forth libellous and ſeditious pamphlets without their names to them, to the great diſhonour of government, and the breach of peace. Hee that is offended at any thing con<g ref="char:EOLhyphen"/>tained in the Laws for either the Church or com<g ref="char:EOLhyphen"/>mon-wealth, and that he can neither by Prayer or conference receive nor give his conſcience Satisfaction, Let him then in all humility pre<g ref="char:EOLhyphen"/>ſent his arguments with his reaſons annexed, to thoſe who have power to reforme, to this I con<g ref="char:EOLhyphen"/>ceive he is called, and bound in conſcience to do, and with this obedient Sacrifice God and the Country too would be well pleaſed. The want of which courſe hath cauſed much diſtraction and confuſion, and whereby many ſimple honeſt peo<g ref="char:EOLhyphen"/>ple are miſ-led, and miſ-informed. They little conſider of the policie of the Devil, who makes them inſtruments of breaking the peace of the State. Neither doe they well ponder the dange<g ref="char:EOLhyphen"/>rous conſequences that attend conſciences miſ<g ref="char:EOLhyphen"/>guided and diſtracted, producing manifold miſe<g ref="char:EOLhyphen"/>ries and calamities, beſides the loſſe of many mens lives. They may repent to late when they cannot repaire the injury they doe thereby. Let them therefore conſider well hereof, how they are the authours of miſeries, and afflictions to others, for there is a wo pronounced againſt them by whom they come.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:157039:12"/>
+            <head>The Law of God in his Word commands and exhorts as followeth.</head>
+            <div type="commandment">
+               <head>In the fifth Commandement.</head>
+               <head type="sub">Honour thy Father, &amp;c.</head>
+               <p>IN the Word Father is comprehended Magi<g ref="char:EOLhyphen"/>ſtrates and Governours, both in the Church and Common-wealth: our dutie to them is in <hi>Romans</hi> 13.1. Let every ſoule be ſubject to the higher powers, for there is no power but of God, the powers that be are ordained of God.</p>
+               <p n="2">2 Whoſoever therefore reſiſteth the power, reſiſteth the ordinance of God, and they that re<g ref="char:EOLhyphen"/>ſiſt ſhall receive to themſelves damnation.</p>
+               <p n="3">3 For Rulers are not a terrour to good works, but to the evill. Wilt thou then not be afraid of the power? Doe that which is good, and thou ſhalt have prayſe of the ſame.</p>
+               <p n="4">4 For hee is the Miniſter of God to thee for good; but if thou do that which is evill be afraid, for he beareth not the Sword in vain, for hee is the Miniſter of God, a revenger to execute wrath upon him that doth evill.</p>
+               <p n="5">5 Wherefore yee muſt needs be ſubject, not only for wrath, but alſo for conſcience ſake.</p>
+               <p n="6">6 For this cauſe pay you alſo tribute, for they are Gods Miniſters, attending continually upon this very thing.</p>
+               <pb n="14" facs="tcp:157039:13"/>
+               <p n="7">7 Render therefore to all their dues, tribute to whom tribute is due, cuſtome to whom cuſtome, feare to whom feare, honour to whom honour, &amp;c.</p>
+               <p>
+                  <hi>Matth.</hi> 22.21. Give unto <hi>Caeſar</hi> that which is <hi>Caeſars.</hi>
+               </p>
+               <p>1 <hi>Pet.</hi> 2.17. Feare God, honour the King.</p>
+               <p>
+                  <hi>Prov.</hi> 24.21. My ſonne, Feare the Lord, and the King, and meddle not with them that are ſe<g ref="char:EOLhyphen"/>ditious.</p>
+               <p>
+                  <hi>Prov.</hi> 18.15. By me Kings reigne, and Princes decree juſtice.</p>
+               <p>
+                  <hi>Prov.</hi> 21.1. The hearts of Kings are in the hands of the Lord, he ruleth them as the Rivers of waters, &amp;c.</p>
+               <p>
+                  <hi>Exod.</hi> 22.28. Thou ſhalt not revile the Gods (or Judges) nor curſe the Ruler of thy people.</p>
+               <p>
+                  <hi>Eccleſ.</hi> 10.20. Curſe not the King, no not in thy thought, nor the rich in thy bed-chamber, for the fowls of the aire ſhall deſcry it.</p>
+               <p>1 <hi>Tim.</hi> 2.2. Saint <hi>Paul</hi> wils to pray for thoſe that are in authoritie, that wee may live a godly life under them with all peace and quietneſſe.</p>
+               <p>
+                  <hi>Tit.</hi> 3.1. Put them in remembrance that they be ſubject to principalities and powers, and that they be obedient to Magiſtrates, &amp;c.</p>
+               <p>1 <hi>Pet.</hi> 2.13. Submit your ſelves to every ordi<g ref="char:EOLhyphen"/>nan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of man for the Lords ſake, whether it be to the King as Supream, or unto Governours as unto them that are ſent by him, for the puniſh<g ref="char:EOLhyphen"/>ment of evill doers, and for the praiſe of them that do well, for ſo is the will of God, &amp;c.</p>
+               <pb n="15" facs="tcp:157039:13"/>
+               <p>
+                  <hi>Heb.</hi> 13.17. Obey them that have the rule over you, and ſubmit your ſelves, for they watch for your ſouls, as they that muſt give account, &amp;c.</p>
+               <p>1 <hi>Theſſ.</hi> 5.12. Now, I beſeech you brethren, know them that labour among you, and that are over you in the Lord, and admoniſh you, that you have them in ſingular love for their works ſake.</p>
+               <p>1 <hi>Tim.</hi> 6.1. Saint <hi>Paul</hi> adviſeth alſo the ſer<g ref="char:EOLhyphen"/>vants to count their Maſters worthy of all honor, that the name of God and his Doctrine may not be evill ſpoken of.</p>
+               <p>From theſe and the like places may be colle<g ref="char:EOLhyphen"/>cted the dutie of the Inferiours to the Superiours, and that the Goſpel doth not aboliſh the precepts of the Law, but rather confirme them, and that Chriſt hath not made laws to overthrow policies and States, but for the better ruling and eſtabliſh<g ref="char:EOLhyphen"/>ing of them.</p>
+               <div type="example">
+                  <head>Examples of Obedience and Submiſsion.</head>
+                  <p>
+                     <hi>Dan.</hi> 3. The three children did not pull downe the Idolatrous image which they were commanded to worſhip, but they ſubmitted them<g ref="char:EOLhyphen"/>ſelves to <hi>Nebuchadnezzars</hi> decree to be caſt into the fierie Furneſſe.</p>
+                  <p>
+                     <hi>Daniell</hi> Alſo did patiently obey the Kings pleaſure, and was content to be put into the Ly<g ref="char:EOLhyphen"/>ons Den. <hi>Heſt.</hi> 4. the Jewes ſubmitted them<g ref="char:EOLhyphen"/>ſelves to <hi>Ahaſuerus</hi> his Decree on <hi>Hamans</hi> plot a<g ref="char:EOLhyphen"/>gainſt their lives, and betooke themſelves to faſt<g ref="char:EOLhyphen"/>ing and prayer. And we may read of the fruits
+<pb n="16" facs="tcp:157039:14"/>and efects of theſe ſubmiſſions. Chriſtian Soul<g ref="char:EOLhyphen"/>diers ſerved under the command of <hi>Iu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>an</hi> the A<g ref="char:EOLhyphen"/>poſtate, who threatned the utter extinction of Chriſtianitie, their armes and oppoſitions were only teares and prayers. The Saints and holy Martyrs in all ages have yielded themſelves to death without reſiſtance.</p>
+                  <p>Saint <hi>Paul</hi> and Saint <hi>Peter</hi> in their Epiſtles ex<g ref="char:EOLhyphen"/>horted to be ſubject to thoſe that were then in authority. <hi>Claudius</hi> was Emperour in thoſe times, and he was an Ethnick, a Heathen, a Tyrant, &amp;c.</p>
+                  <p>1 <hi>Sam.</hi> 24.7. <hi>David</hi> (though the heire to the Kingdome, and <hi>Saul</hi> a perſecuting Tyrant) yet ſaith, The Lord keep mee from doing that thing unto my Maſter the Lords anointed, to lay my hands on him, for he is the anointed of the Lord. Even our bleſſed Saviour yielded himſelfe as a ſheepe to the ſlaughter, though hee could have commanded Millions of Angels to have aided and reſcued him.</p>
+               </div>
+            </div>
+            <div type="commandment">
+               <head>The ſixth Commandement.</head>
+               <head type="sub">Thou ſhalt not kill.</head>
+               <p>1 <hi>John</hi> 3.5. Hee that hates his brother in his heart is a man-ſlayer.</p>
+               <p>
+                  <hi>Gon.</hi> 6.9. Thou ſhalt not ſhed mans bloud, for he was made the Image of God.</p>
+               <p>
+                  <hi>Rom.</hi> 12.9. Vengeance is mine and I will repay it.</p>
+               <div type="part">
+                  <pb n="17" facs="tcp:157039:14"/>
+                  <head>In the affirmative part of this Commandement,</head>
+                  <p>We are bound to defend the oppreſſed. Thus <hi>Job</hi> 29.16, 17.</p>
+                  <p>
+                     <hi>Prov.</hi> 24.11. Deliver them that are drawne to death, and wilt thou not deliver them that are led to be ſlain? If thou ſay behold I knew it not, He that ponders the heart, doth not hee underſtand it, and he that keeps thy ſoule, knows he it not? Will he not recompence alſo every man accord<g ref="char:EOLhyphen"/>ing to his works?</p>
+                  <p>The omiſsion of the dutie to the ſoule brings Superiours into breach of that Commandement. As Miniſters, <hi>Ezek.</hi> 33.8. If hee tell not the peo<g ref="char:EOLhyphen"/>ple of their ſins, they ſhall die in them, but their bloud ſhall be required at his hands.</p>
+                  <p>
+                     <hi>Acts</hi> 20.27. Saint <hi>Paul</hi> ſaith, I have told you all the counſell of God, and kept nothing back; therefore accounts himſelf innocent of the bloud of all men.</p>
+               </div>
+            </div>
+            <div type="commandment">
+               <head>The eighth Commandement.</head>
+               <head type="sub">Thou ſhalt not ſteal.</head>
+               <p>
+                  <hi>Malac.</hi> 3.8. Ye robbed mee of my Tithes and Offerings. By Offerings may bee underſtood whatſoever is appointed to religious uſes.</p>
+               <p>
+                  <hi>Prov.</hi> 20.25. It is an abomination to the Lord, to devoure things ſanctified, that is, things ordai<g ref="char:EOLhyphen"/>ned to holy uſes.</p>
+            </div>
+            <div type="commandment">
+               <pb n="18" facs="tcp:157039:15"/>
+               <head>The ninth Commandement.</head>
+               <head type="sub">Thou ſhalt not beare falſe witneſſe, &amp;c.</head>
+               <p>We are not therefore cauſeleſly to ſuſpect any, <hi>Matth.</hi> 7.1. Judge not and ye ſhall not be judged, for with what judgement ye judge, ye ſhall be judged, and with what meaſure ye mete, it ſhall be meaſured to you again.</p>
+               <p>
+                  <hi>James</hi> 3.17. True wiſdome which is from a<g ref="char:EOLhyphen"/>bove, is without judging, without Hipocriſie.</p>
+               <p>Geſtures and ſpeeches tending to mock and vi<g ref="char:EOLhyphen"/>lifie are in this Commandement comprehended and forbidden, thus the geſtures of thoſe that mocked Chriſt are noted, <hi>Pſal.</hi> 22.7. They nod<g ref="char:EOLhyphen"/>ded their heads at him, and made mowes.</p>
+               <p>Falſe witneſſes alſo are hereby condemned, <hi>Prov.</hi> 19.9. A falſe witneſſe ſhall not be unpuniſh<g ref="char:EOLhyphen"/>ed, and hee that ſpeaks lyes ſhall not eſcape. <hi>Prov.</hi> 21.28. A falſe witneſſe ſhall periſh. <hi>Prov.</hi> 6.19. The Lord doth hate and abhorre a falſe wit<g ref="char:EOLhyphen"/>neſſe that ſpeaketh lies.</p>
+               <p>Slander and back-biting are alſo included as a great breach wounding three at one time.</p>
+               <p>Firſt, it wounds the ſoule of the ſlanderer.</p>
+               <p>Secondly, wounds the reputation of him that is ſlandered.</p>
+               <p>Thirdly, poyſons the heart of him who receives the report, with an uncharitable conceit.</p>
+               <p>Defence alſo of bad and ill cauſes not exclu<g ref="char:EOLhyphen"/>ded.</p>
+               <pb n="19" facs="tcp:157039:15"/>
+               <p>
+                  <hi>Prov.</hi> 17.15. Hee that juſtifies the wicked, and he that condemnes the juſt, they both are an ab<g ref="char:EOLhyphen"/>omination to the Lord.</p>
+               <p>
+                  <hi>Prov.</hi> 14.24. He that pray ſeth the wicked, the people ſhall curſe him.</p>
+            </div>
+            <div type="part">
+               <p>The <hi>Law</hi> of the <hi>Land,</hi> grounded on the Law of God, provides to prevent all appearances and oc<g ref="char:EOLhyphen"/>caſions of ſhedding of bloud, of diſobeying au<g ref="char:EOLhyphen"/>thority, and of prejudice to others. And be<g ref="char:EOLhyphen"/>cauſe the enormities of unlawfull Aſſemblies, Riots, Routs, and the like, have beene ſuch that they have endangered the Kingdome, and peace thereof, and put in hazard the very forme of go<g ref="char:EOLhyphen"/>vernment, care hath been taken to prevent, even words, menaces, or any other appearances of diſ<g ref="char:EOLhyphen"/>content, the Kingdome having formerly beene ſenſible that from ſmall ſparks great fires have been kindled: As namely that Riot at <hi>Dartmouth</hi> in <hi>Kent</hi> in <hi>Richard</hi> the Second his Reigne, began firſt but between a Tyler and his Wife, and a Collector of a Subſidie for one groat demanded. It put in hazard the Kings life, the burning of the Citie of <hi>London,</hi> the ruine of the Nobility, Gen<g ref="char:EOLhyphen"/>try, and Kingdome alſo. So likewiſe in <hi>Henry</hi> the Sixth his time, a ſmall occaſion, a falling out be<g ref="char:EOLhyphen"/>tween one of the Yeomen of the Kings Guard, and one of the then Earle of <hi>Warwick</hi> his men, came to a Riot of ſuch a high nature, that it was the root of many wofull and fatall Tragedies, even the loſſe of <hi>Richard Plantaginet</hi> Duke of <hi>Yorke,</hi> and after him King <hi>Henry</hi> the Sixth, and
+<pb n="20" facs="tcp:157039:16"/>Prince <hi>Edward</hi> his ſonne, with many of the Peers, Nobilitie, and Gentrie, and many thouſands of the Kingdome likewiſe.</p>
+               <p>Therefore Menacers ſhall be impriſoned, <hi>St.</hi> 2. <hi>Ed.</hi> 3.</p>
+               <p>Neither ſhall there be any Barrettors or Main<g ref="char:EOLhyphen"/>tayners of Quarrels. <hi>Weſt.</hi> 1.3. <hi>Ed.</hi> 1.32.</p>
+               <p>There are alſo proviſions made and puniſh<g ref="char:EOLhyphen"/>ments ordained, againſt the enormitie of privie defaming and libelling, invented to defame and tread the honour and eſtimation of a man in the duſt, to make him derided and deſpiſed amongſt his Neigbours.</p>
+               <p>
+                  <hi>Scandala Magnatum,</hi> Scandals of Peeres or Governours provided againſt in <hi>St.</hi> 3. <hi>Ed.</hi> 1.34. 2. <hi>R.</hi> 2.12. <hi>R</hi> 2.41.</p>
+               <p>There ſhall be no diſturbance of a Preacher in his Sermon. 1. <hi>M.</hi> 3.</p>
+               <p>There ſhall bee no chiding or ſmiting in a Church or Church-yard. <hi>St.</hi> 5. <hi>&amp;</hi> 6. <hi>Ed.</hi> 6.</p>
+               <p>There ſhall be no aſſaulting of a Judge or Ju<g ref="char:EOLhyphen"/>ror. 22. <hi>Ed.</hi> 3.13.</p>
+               <p>There ſhall be no Riots, &amp;c. therefore for the puniſhment of them, the Court of Star-chamber was ordained. <hi>St.</hi> 3. <hi>H.</hi> 7.1. <hi>St.</hi> 21. <hi>H.</hi> 8.22.</p>
+               <p>Not diſcloſing a Commotion or unlawfull aſ<g ref="char:EOLhyphen"/>ſembly, when one is moved thereunto, within 24 houres to a Juſtice of Peace, a Sheriffe, Bailiffe, &amp;c. is impriſonment for three moneths. 1. <hi>M.</hi> 12.</p>
+               <p>Procuring others to offend 1. <hi>M.</hi> 12. are to ſuf<g ref="char:EOLhyphen"/>fer impriſonment for three moneths alſo.</p>
+               <pb n="21" facs="tcp:157039:16"/>
+               <p>Juries ordained to enquire of Riots. <hi>St.</hi> 13. <hi>H.</hi> 4.</p>
+               <p>There ſhall be no Maintenance by Combina<g ref="char:EOLhyphen"/>tion or Conſpiracie. <hi>St.</hi> 33. <hi>E.</hi> 1. 1. <hi>R.</hi> 2.7.</p>
+               <p>There ſhall be no Maintenance by Embracery, that is, by comming to the Barre with the offen<g ref="char:EOLhyphen"/>dour, and ſpeaking in the matter, or threatning, or procuring of a Jury. <hi>St.</hi> 33. <hi>E.</hi> 1.</p>
+               <p>There ſhall be no Maintenance by Jurors, that is, when they corruptly take any reward directly or indirectly of the offendor Plantiffe or Defen<g ref="char:EOLhyphen"/>dant to give his verdict. <hi>St.</hi> 34. <hi>Ed.</hi> 3. <hi>Ed.</hi> 3.38.</p>
+               <p>Therefore a Riot not found by the Jury, by reaſon of Maintenance or Embracery, is to be pu<g ref="char:EOLhyphen"/>niſhed. <hi>St.</hi> 19. <hi>H.</hi> 7.13.</p>
+               <p>There ſhall not be any Maintenance by great men in authoritie by ſpeaking of words, whereby to frighten the Jurie, or to make them to encline to his deſire, and therefore alſo none but ſuch as are in the Commiſſion ſhall ſit with the Juſtices of Aſsize. 20. <hi>R.</hi> 2. 22. <hi>H.</hi> 6.5. 13. <hi>H.</hi> 4.19.</p>
+               <p>A Riot is when three perſons or above, aſſem<g ref="char:EOLhyphen"/>ble themſelves to the intent to beat or maym a man, to pull down a houſe, fence, or the like, or to do any unlawfull act with force and violence, againſt the peace. <hi>St.</hi> 5. <hi>R.</hi> 2.7. Three or foure en<g ref="char:EOLhyphen"/>tring into Lands with force upon the poſſeſsion of another, though the entry be lawfull, yet it is accounted a Riot. And an aſſembly lawfully be<g ref="char:EOLhyphen"/>gun, doth many times end riotouſly.</p>
+               <p>An unlawfull Aſſembly is when above three do aſſemble themſelves with intent to beat, or do
+<pb n="22" facs="tcp:157039:17"/>as aforeſaid, though nothing be acted by them, yet it is an unlawfull aſſembly.</p>
+               <p>A Rout is when above three doe aſſemble to revenge themſelves, to pull down, &amp;c. or to beat a man that hath done ſome offence to them all, or ſhew by geſture, or ſpeech, that they mean to do any violence, or doe feare any of the Kings peo<g ref="char:EOLhyphen"/>ple, It is accounted in the Law a Rout, though nothing be done. 17. <hi>Ed.</hi> 4.4.</p>
+               <p>The Doctrine of the Church of <hi>England,</hi> con<g ref="char:EOLhyphen"/>firmed by the Law, in the twentieth Article con<g ref="char:EOLhyphen"/>cerning the authoritie of the Church, ſaith, that the Church hath power to decree Rites and Ce<g ref="char:EOLhyphen"/>remonies, and authoritie in controverſie of faith, being not contrarie to the written Word of God, Article 37. conterning the Civill Magiſtrates, ſaith, that they are to have that Prerogative which was given to all godly Princes in holy Scripture, by God himſelfe, that is, that they ſhould rule all eſtates and degrees committed to their charge by God, whether Eccleſiaſticall or Temporall, and reſtrain with the Civill Sword the ſtubborn and evill doers, &amp;c.</p>
+               <p>Theſe and the like may be collected from the Law of God and Man, for our dutie to our Go<g ref="char:EOLhyphen"/>vernours, and the preſervation of the peace; they may be applyable, and may ſerve to convince the offences that have been done contrary to them, and may be a preſervative or remedie to prevent the doing of the like again.</p>
+               <p>To conclude, It is manifeſt, that the Laws of
+<pb n="23" facs="tcp:157039:17"/>the Land concerning the dutie to the Civill Ma<g ref="char:EOLhyphen"/>giſtrate and our Governours, &amp; the Maintenance of the Peace, cannot be broken but with great violence and oppoſition to the Law of God.</p>
+               <p>Thoſe then that labour againſt conformitie to them, do little leſſe then endevour to diſſolve the bonds of Government and Unitie eſtabliſhed by God and Man, and ſo conſequently all would fall to confuſion. Such are dangerous and perni<g ref="char:EOLhyphen"/>tious to the tranquillity and proſperitie of a King<g ref="char:EOLhyphen"/>dome. The Law of the Land hath made provi<g ref="char:EOLhyphen"/>ſions, and ordained ſevere puniſhments for the of<g ref="char:EOLhyphen"/>fence done to the Majeſtie of Government, and the peace of the Land, calling it Treaſon, or <hi>Cri<g ref="char:EOLhyphen"/>men Laeſae Majeſtatis:</hi> for the preſervation of the Supremacie thereof, there is an Oath enjoyned, <hi>St.</hi> 1. <hi>El.</hi> 1.5. <hi>El.</hi> 1. &amp; thoſe that refuſe it, the ſecond time, are thereby made guiltie of high Treaſon. And, me thinks, there is great reaſon that autho<g ref="char:EOLhyphen"/>ritie and government ſhould be carefully preſer<g ref="char:EOLhyphen"/>ved. For it is as the Head, Eye, or Soule is to the body; Take away the life and the ſenſes, and what remayns but a uſeleſſe and ſenceleſſe car<g ref="char:EOLhyphen"/>caſſe? or as the Sun is to all things under it; We know that by the benefit of the Sun, and the pro<g ref="char:EOLhyphen"/>perties belonging thereunto, all ſubſolarie bo<g ref="char:EOLhyphen"/>dies and creatures are enlivened and bette<g ref="char:EOLhyphen"/>red; but when it is ecclipſed though never ſo little they are much the worſe; ſo while the bright and radiant beams of Sovereigne autho<g ref="char:EOLhyphen"/>ritie and lawfull Government, have there due and proper influence upon the inferiour ſubjects,
+<pb n="24" facs="tcp:157039:18"/>they grow &amp; flouriſh in peace &amp; plenty, but when it is ecclipſed, by the interpoſition of the inferior Orbes, What malignant calamities and peſtife<g ref="char:EOLhyphen"/>rous effects are always produced? The bodie politick ſuffers no leſſe then the naturall bodie, by the obſtruction of the animall and vitall ſpi<g ref="char:EOLhyphen"/>rits.</p>
+               <p>Theſe I have thought fit (as a private Chriſtian called thereunto) to commit to paper for the in<g ref="char:EOLhyphen"/>formation of thoſe who are ignorant, My parti<g ref="char:EOLhyphen"/>cular calling will not permit me otherwiſe, or far<g ref="char:EOLhyphen"/>ther to expreſs or enlarge my ſelf. I ſeriouſly pro<g ref="char:EOLhyphen"/>teſt I have no ſiniſter end herein, nor is it done out of any malice, hatred, or evill affection to any, but in diſcharge of the late Proteſtation, and as I verily believe I am bound in conſcience and du<g ref="char:EOLhyphen"/>tie to God and Man, to maintain the truth, peace, and due government of the Church and Com<g ref="char:EOLhyphen"/>mon-weale. Peruſe it therefore the more charita<g ref="char:EOLhyphen"/>bly, and labour to be informed of the truth how mean clothed ſo ever you finde it, and take heed how you perſiſt in a known errour. And as you have been an example of evill unto others, who are too readie to take patterne of diſobedience thereby, ſo you ought to be an example of good to them in your obedience, in your acknowledg<g ref="char:EOLhyphen"/>ing and amending your errours. Thus <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>horts <hi>Titus</hi> to preach, <hi>Titus</hi> 3.3. For wee our ſelves alſo were ſometimes fooliſh, diſobedient, deceived, ſerving divers luſts and pleaſures, li<g ref="char:EOLhyphen"/>ving in malice and envie, hatefull, and hating one another. In the 1 <hi>Tim.</hi> 6.11. His dehortation is,
+<pb n="25" facs="tcp:157039:18"/>But thou ô man of God flie theſe things, (with his exhortation) and follow after righteouſneſſe, godlineſſe, faith, love, patience, and meekneſſe. To this ye were exhorted by the ſame text at the vi<g ref="char:EOLhyphen"/>ſitation Sermon, the very houre before your diſ<g ref="char:EOLhyphen"/>order. You may ſee what it is to take Gods name into your mouthes and eares, and to ſcorne to be reformed, What inconveniences you might have prevented by obſerving it and other advertiſe<g ref="char:EOLhyphen"/>ments given you at that time, What dangers you have run your ſelves into by contemning them. Therefore ſin no more leſt a worſe thing happen, and according to <hi>Salomons</hi> advice, <hi>Prov.</hi> 21. Feare the Lord and the King, and meddle not with them that are given to Sedition. Love the Truth, and Peace, is the Prophet <hi>Zachary</hi> his counſell, <hi>Zach.</hi> 8.19. Seek them, follow them, and contend for them, as far as lawfully thou mayſt, for thou wilt finde the contraries of them full of miſeries and calamities, and ſo the God of Truth and Peace guide you, and bleſſe you with (what I heartily wiſh you) externall, internall, and eter<g ref="char:EOLhyphen"/>nall peace.</p>
+               <closer>
+                  <signed>I. W.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
